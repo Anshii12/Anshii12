@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Anshita Sharma. You can connect to me on [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/anshita-sharma-7755b9187/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](./mail.png)](mailto:anshita.sharma660@gmail.com)
+I am Anshita Sharma. You can connect to me on [![linkedin](./ln.png)](https://www.linkedin.com/in/anshita-sharma-7755b9187/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](./mail.png)](mailto:anshita.sharma660@gmail.com)
 
 <!--
 **Anshii12/Anshii12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
